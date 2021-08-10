@@ -3,9 +3,7 @@
     <p>Welcome To Referendum</p>
     <label>Referendum ID</label>
     
-    <input type="text"/>
-    <input type="text"/>
-    <input type="submit"/>
+    <router-link to="/info/1234"><p>TEST</p></router-link>
   </div>
 </template>
 
