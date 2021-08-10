@@ -1,6 +1,11 @@
 <template>
   <div class="page">
-    <p>Auth</p>
+    <p>Authenticate</p>
+    <p>SessionID</p>
+    <input type="text"/>
+    <p>Passkey</p>
+    <input type="text"/>
+    <input type="submit"/>
   </div>
 </template>
 

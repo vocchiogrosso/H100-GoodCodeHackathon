@@ -12,7 +12,7 @@ import MapView from '@arcgis/core/views/MapView';
 import FeatureLayer from '@arcgis/core/layers/FeatureLayer'
 
 export default {
-  name: 'Info',
+  name: 'Arcgis',
   props: ['id'],
   methods:{
     buildMap: async function(){
