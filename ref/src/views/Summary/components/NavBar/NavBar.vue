@@ -1,7 +1,6 @@
 <template>
   <div class="comp">
     <p>NavBar</p>
-    
   </div>
 </template>
 

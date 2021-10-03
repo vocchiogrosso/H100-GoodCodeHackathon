@@ -1,6 +1,6 @@
 <template>
   <div class="page">
-    <Navbar id="navbar"/>
+    <NavBar id="navbar"/>
     <Changes id="changes"/>
     <Map id="map"/>
   </div>
@@ -46,7 +46,7 @@ export default {
     width: 60vw;
   }
 
-  #NavBar{
+  #navbar{
     background-color: green;
     position: absolute;
     left: 0;
